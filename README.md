@@ -1,5 +1,5 @@
 # Exp-func-inspired-by-pow-func-from-cmath-library
-So I recreate a power function from cmath libraru
+So I recreate a power function from cmath library 
 HOW TO USE:
 
 1."#include <n_exp.hpp>
